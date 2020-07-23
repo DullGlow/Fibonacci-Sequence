@@ -1,4 +1,4 @@
-%include        '/home/memento/asm/lib/functions.asm'
+%include        'functions.asm'
 
 SECTION .data    
     msg db "Enter a positive number: "
